@@ -44,8 +44,6 @@ function App() {
 
   }, [tl])
 
-
-
   return (
     <div className="hero" ref={el => app = el}>
       <div className="container">
